@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# FabriCam
 
-## Setup
+## Overview
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+A test project, to see how easy it would be to port BauerCam over to 1.17.1 Fabric, from 1.12.2 Forge.
 
-## License
+This is my first time modding Minecraft, and my first time using Java, other than the basics.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+What could possibly go wrong?
